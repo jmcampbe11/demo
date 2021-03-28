@@ -1,5 +1,5 @@
-
-[
+{
+  "tokens": [
   {
   "id": 0,
   "description": "Test-Token",
@@ -8,3 +8,4 @@
   "name": "Test-Token 0"
  }
 ]
+}
